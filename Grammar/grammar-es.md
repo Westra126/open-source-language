@@ -32,8 +32,8 @@
 
 ### 1. Artículo
 
-Sólo existe el artículo definido **xe-** y es el mismo para todos los géneros y números. Este se escribe como un prefijo al sustantivo y siempre se escribe en minúscula. Inmediatamente la primer letra del sustantivo deberá ir en mayúscula. Si el sustantivo comienza con vocal se podrá escribir sólo **x-**. Ejem: xe|Talmo, xe|Patro, xe|Matro, x|Arbo.
+Sólo existe el artículo definido **le-** y es el mismo para todos los géneros y números. Este se escribe como un prefijo al sustantivo y siempre se escribe en minúscula. Inmediatamente la primer letra del sustantivo deberá ir en mayúscula. Si el sustantivo comienza con vocal se podrá escribir sólo **l-**. Ejem: le|Talmo, le|Patro, le|Matro, l|Arbo.
 
 ### 2. Sustantivo
 
-Todos los sustantivos tienen terminación en **-o**. Para la formación del plural xeviBovo xefeBovo
+Todos los sustantivos tienen terminación **-o**. Para la formación del plural se añade la terminación **-n**
