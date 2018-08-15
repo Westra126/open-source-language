@@ -32,8 +32,14 @@
 
 ### 1. Artículo
 
-Sólo existe el artículo definido **le-** y es el mismo para todos los géneros y números. Este se escribe como un prefijo al sustantivo y siempre se escribe en minúscula. Inmediatamente la primer letra del sustantivo deberá ir en mayúscula. Si el sustantivo comienza con vocal se podrá escribir sólo **l-**. Ejem: le|Talmo, le|Patro, le|Matro, l|Arbo.
+Sólo existe el artículo definido `le-` y es el mismo para todos los géneros y números. Este se escribe como un prefijo al sustantivo y siempre se escribe en minúscula. Inmediatamente la primer letra del sustantivo deberá ir en mayúscula. Si el sustantivo comienza con vocal se podrá escribir sólo `l-`. En ausencia del artículo se entiende como indefinido y se escribirá en minúscula si no está al inicio de la oración. Ejem: le|Talmo, |patro, le|Matron, l|Arbo.
 
 ### 2. Sustantivo
 
-Todos los sustantivos tienen terminación **-o**. Para la formación del plural se añade la terminación **-n**
+Los sustantivos tienen terminación `-o` cuando son sujeto de la oración. Cuando son el objeto directo de la oración esta terminación cambia a `-u`.  Para la formación del plural se añade la terminación `-n`.
+Ejemplos:
+
+||Sujeto|Objeto|
+|---|---|---|
+|**Singular**|Afto|Aftu|
+|**Plural**|Afton|Aftun|
