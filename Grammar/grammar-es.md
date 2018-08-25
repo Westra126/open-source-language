@@ -32,14 +32,18 @@
 
 ### 1. Artículo
 
-Sólo existe el artículo definido `la` y es el mismo para todos los géneros y números. Este se escribe antes del sustantivo. Si el sustantivo comienza con vocal se podrá escribir en modo de prefijo `l'-`. En ausencia del artículo se entiende como indefinido. Ejem: la domo, la fepatro, l'arbon, afto(ind.).
+Sólo existe el artículo definido `le` y es el mismo para todos los géneros y números. Este se escribe antes del sustantivo. Si el sustantivo comienza con vocal se podrá escribir en modo de prefijo `l'-`. En ausencia del artículo se entiende como indefinido. Ejemplos: _le talmo, le fepatro, l'arbon, afto(ind.)._
 
 ### 2. Sustantivo
 
-Los sustantivos tienen terminación `-o` cuando son sujeto de la oración. Cuando son el objeto directo de la oración esta terminación cambia a `-u`.  Para la formación del plural se añade la terminación `-n`.
+Los sustantivos tienen terminación `-o` cuando son sujeto de la oración. Cuando son el objeto directo de la oración esta terminación cambia a `-u`.  Para la formación del plural se añade la terminación `-n`. Todos los sustantivos son neutros, si es necesario especificar el género femenino o masculino se agrega el prefijo `fe-` y `vi-` respectivamente.
 Ejemplos:
 
 ||Sujeto|Objeto|
 |---|---|---|
 |**Singular**|Afto|Aftu|
 |**Plural**|Afton|Aftun|
+
+### 3. Adjetivo
+
+Los adjetivos terminan en `-a`. El número tiene concordancia con el sustantivo. El comparativo está hecho con la palabra `plia`, el "que" auxiliar del comparativo es `ol`, el superlativo con `la plia` y el auxiliar del superlativo es `il`. Ejemplos: ___plia__ blanka __ol__ nejo, mi havas __la plia__ bela fepatru __il__ mundo._ 
