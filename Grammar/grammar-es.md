@@ -32,7 +32,7 @@
 
 ### 1. Artículo
 
-Sólo existe el artículo definido `le` y es el mismo para todos los géneros y números. Este se escribe antes del sustantivo. Si el sustantivo comienza con vocal se podrá escribir en modo de prefijo `l'-`. En ausencia del artículo se entiende como indefinido. Ejemplos: ___le__ talmo, __le__ fepatro, __l'____arbon, afto(ind.)._
+Sólo existe el artículo definido `le` y es el mismo para todos los géneros y números. Este se escribe antes del sustantivo. Si el sustantivo comienza con vocal se podrá escribir en modo de prefijo `l'-`. En ausencia del artículo se entiende como indefinido. Ejemplos: ___le__ talmo, __le__ fepatro, __l__'arbon, afto(ind.)._
 
 ### 2. Sustantivo
 
