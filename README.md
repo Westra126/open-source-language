@@ -6,7 +6,7 @@ El OSL es un proyecto para crear un idioma artificial, con la filosofía del "c�
 
 - El idioma estará completamente libre de discriminación en cualquiera de sus sentidos. Será lo más respetuoso posible en el tratamiento de los géneros, razas, creencias ideológicas y religiosas, etc. Siempre guardando la economía de la información, buscando la solución más simple para resolver estos temas.
 
-- El idioma será autoregulado por la comunidad que lo habla y que tenga acceso a la herramienta de Git, por medio de la votación. Sin embargo siempre abrá moderación para conservar los puntos anteriores.
+- El idioma será autoregulado por la comunidad que lo habla y que tenga acceso a la herramienta de Git, aprovenchando las herramientas que esta y GitHub aporta para el desarrollo cooperativo. Sin embargo siempre abrá moderación para conservar los puntos anteriores.
 
 - El idioma será de "código abierto" bajo la licencia [GNU GENERAL PUBLIC LICENSE][2].
 
