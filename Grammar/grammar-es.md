@@ -41,8 +41,8 @@ Ejemplos:
 
 ||Sujeto|Objeto|
 |---|---|---|
-|**Singular**|Auto|Autu|
-|**Plural**|Auton|Autun|
+|**Singular**|Afto|Aftu|
+|**Plural**|Afton|Aftun|
 
 ### 3. Adjetivo
 
