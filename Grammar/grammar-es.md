@@ -46,4 +46,4 @@ Ejemplos:
 
 ### 3. Adjetivo
 
-Los adjetivos terminan en `-a`. El número tiene concordancia con el sustantivo. El comparativo está hecho con la palabra `plia`, el "que" auxiliar del comparativo es `ol`, el superlativo con `le plia` y el auxiliar del superlativo es `il`. Ejemplos: ___plia__ blanka __ol__ nejo, mi havas __le plia__ bela vipatru __il__ mundo._ 
+Los adjetivos terminan en `-a`. El número tiene concordancia con el sustantivo. El comparativo está hecho con la palabra `plia`, el "que" auxiliar del comparativo es `ol`, el superlativo con `le plia` y el auxiliar del superlativo es `il`. Ejemplos: ___plia__ blanka __ol__ nejo, mi xavas __le plia__ bela vipatru __il__ mundo._ 
