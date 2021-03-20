@@ -1,0 +1,2 @@
+# Diccionaro OSL - Español
+
